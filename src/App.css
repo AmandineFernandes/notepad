@@ -1,0 +1,56 @@
+body{
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+h2{
+  color: rgb(179, 2, 2);
+}
+
+.note-1{
+  text-align: left;
+  padding-left: 368px;
+  padding-top: 50px;
+}
+
+ul {
+  list-style: circle;
+}
+
+li {
+  text-align: left;
+}
+
+.note-2{
+  text-align: left;
+  padding-left: 368px;
+  padding-top: 20px;
+  max-width: 40%;
+}
+
+input{
+  background-color: grey;
+  color: white;
+  width: 45%;
+  box-sizing: border-box;
+}
+
+textarea{
+  resize: none;
+  background-color: grey;
+  color: white;
+  text-align: left;
+  box-sizing: border-box;
+  width: 45%;
+}
+
+
+
